@@ -1,6 +1,6 @@
 # AirBnB_clone
 
-This is a step towards building a full web application by **Oluwatobiloba Osinubi** and **Mohamed Ibrahima TRAORE** : The __AirBnB clone__.
+This is a step towards building a full web application by **Lawal Mayowa** and **Ibrahim Oyeboade** : The __AirBnB clone__.
 This project was taken on during the Full Stack Software Engineering studies at **ALX**.
 
 ## Models
